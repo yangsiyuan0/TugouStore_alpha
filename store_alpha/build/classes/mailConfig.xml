@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mailConfig>
+<default-config>
+    <property name="host">smtp.yeah.net</property>
+	<property name="username">yangsiyuan0</property>
+	<property name="password">wap5891ysy</property>
+	<property name="sendEmail">yangsiyuan0@yeah.net</property>
+  </default-config>
+</mailConfig>
